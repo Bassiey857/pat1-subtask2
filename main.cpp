@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
   // Declare integer variables for the three temperatures readings
-int temp1, temp2, temp3;
+int temp1, temp2, temp3; 
 int increase;
 
 // Step 1: Request first and second readings from the user
