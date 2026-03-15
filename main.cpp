@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-  // Declare integer variables for the three temperatures readings
+  // Declare integer variables for the three temperatures readings 
 int temp1, temp2, temp3; 
 int increase;
 
